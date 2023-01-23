@@ -1,0 +1,184 @@
+*{
+    padding: 0;
+    margin: 0;
+    /* font-family: 'josefin sans', sans-serif; */
+    box-sizing: border-box;
+}
+header {
+    
+    text-align: center;
+    text-decoration: solid;
+   position: sticky;
+   top: 0;
+   
+
+    
+}
+.navbar{
+    background-color: rgb(178, 176, 182);
+    border-radius: 0px;
+  
+    
+}
+.navbar ul{
+    overflow: auto;
+    
+}
+.navbar li{
+    float: left;
+    list-style: none;
+   margin: 15px 20px;
+   top: 0;
+
+}
+
+.search{
+    float: right;
+    color: black;
+    padding: 13px 75px;
+}
+.navbar input{
+  border: 2px solid black;
+  border-radius: 15px;
+  padding: 4px 18px;
+  width: 129px;
+}
+.btn{
+    float: right;
+      font-weight: bold;
+        padding: 3px 3px;
+    }
+    .btn:hover{
+        background-color: red;
+        color: rgb(255, 255, 255);
+        border-radius: 10px;
+        box-sizing: content-box;
+    }
+    .abc{
+        font-weight: bold;
+        
+    }
+    .xyz{
+        width: 500px;
+        margin-left: 100px;
+       /* margin: 40px; */
+       margin-top: 40px;
+       font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    .mm{
+        margin-left: 300px;
+        margin-right: 350px;
+         border-radius: 10px;
+         background-color: rgba(237, 242, 243, 0.623);
+         /* text-align: center; */
+         box-sizing: border-box;
+        margin-top: 2px;
+        
+    }
+    .xz{
+        font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+    .dc{
+        font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+    .zx{
+        text-decoration: none;
+    }
+    .zx:hover{
+        background-color: transparent;
+        color: rgb(245, 10, 10);
+    }
+    
+    
+    .bb{
+        text-align: center;
+        text-decoration: none;
+        top: 75px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+
+    }
+    .hv{
+        color: rgb(9, 22, 68);
+        font-size: 12px;
+       text-decoration: underline;
+       text-decoration-line: underline;
+       text-decoration-color: initial;
+       text-decoration-thickness: initial;
+       text-decoration-style: initial;
+       box-sizing: border-box;
+      font-size: 16px;
+
+    }
+       
+       .hv:hover{
+        cursor: pointer;
+        background-color: transparent;
+        color: rgb(235, 97, 17);
+    }
+       .kk:hover{
+        cursor: pointer;
+        background-color: transparent;
+        color: rgb(235, 97, 17);
+    }
+    .kk{
+        color: #000;
+        text-decoration: underline;
+        color: rgb(9, 22, 68);
+    }
+    .vv{
+        text-decoration: none;
+        color: rgb(0, 0, 0);
+        font-size: 16px;
+    }
+       .xn{
+        font-size: large;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+       }
+    .xf {
+        padding: 3px 3px;
+        text-decoration: none;
+        color: rgb(15, 15, 14);
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        
+         font-weight: bold;
+    }
+     .xf :hover{
+         background-color: rgb(243, 10, 10);
+        color: rgb(255, 251, 251);
+     }
+     .bn{
+        text-decoration: none;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        
+     }
+     .bn:hover{
+        color: rgb(243, 10, 10);
+        background-color: rgb(255, 251, 251);
+     }
+     .cc{
+        font-family: Georgia, 'Times New Roman', Times, serif;
+     }
+     .vb{
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        margin-left: 15px;
+     }
+     .mk{
+        text-decoration: none;
+     }
+     .jn{
+     width: min-content;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+     }
+     .xc{
+        margin-left: 25px;
+       margin-top: 20px;
+       margin-bottom: 20px;
+     }
+     .mk:hover{
+        color: rgb(243, 10, 10);
+        background-color: rgb(255, 251, 251);
+     }
+    
+    .nn{
+        font-family: Georgia, 'Times New Roman', Times, serif;
+    }
